@@ -1,0 +1,6 @@
+:root {
+  --first: rgb(0, 0, 0);
+  --secound: rgb(255, 255, 255);
+  --third: rgb(28, 0, 210);
+  --blurgradient: radial-gradient(circle, rgba(0, 41, 255, 1) 50%, rgba(40, 58, 150, 1) 75%, rgba(0, 0, 0, 1) 100%);
+}
