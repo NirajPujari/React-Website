@@ -1,6 +1,5 @@
 {
 	"name": "fitness_website",
-	"homepage": "https://powerhousefitness.vercel.app/",
 	"version": "1.0.0",
 	"private": false,
 	"dependencies": {
