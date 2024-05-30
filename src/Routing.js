@@ -23,7 +23,7 @@ import MemberContactPage from "./pages/MemberContactPage";
 
 export const Routing = () => {
   return (
-    <Router basename="/reactapp">
+    <Router basename="/React-Website">
       <NavBar />
       <Routes>
         <Route path="/" element={<Navigate replace to="/home" />} />
